@@ -1,0 +1,27 @@
+{
+  "name": "weekend-1-challenge-full-stack",
+  "version": "1.0.0",
+  "description": "For your weekend challenge, you will need to create an application that records employee records along with their salary. We also want to add the salaries up so we know how much we’re spending each month in salary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminge37/iota_weekend_01.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminge37/iota_weekend_01/issues"
+  },
+  "homepage": "https://github.com/aminge37/iota_weekend_01#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jquery": "^2.2.0",
+    "path": "^0.12.7",
+    "pg": "^4.4.6"
+  }
+}
